@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>blog.julienbordellier.com</title>
+  <link href="http://blog.julienbordellier.com/"/>
+  <link type="application/atom+xml" rel="self" href="http://blog.julienbordellier.com/atom.xml"/>
+  <updated>2014-04-03T23:47:14+08:00</updated>
+  <id>http://blog.julienbordellier.com/</id>
+  <author>
+    <name>Julien Bordellier</name>
+    <email>me@julienbordellier.com</email>
+  </author>
+
+  
+  <entry>
+    <id>http://blog.julienbordellier.com//divers/2014/01/02/lire-lactualite-vous-rend-malheureux</id>
+    <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/divers/2014/01/02/lire-lactualite-vous-rend-malheureux.html"/>
+    <title>Lire l&#39;actualité vous rend malheureux</title>
+    <updated>2014-01-02T15:16:00+08:00</updated>
+    <author>
+      <name>Julien Bordellier</name>
+      <uri>http://blog.julienbordellier.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/news.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Depuis quelques mois je me rends compte que lire ou regarder les informations de façon journalière me déplait. De façon interessante je ne trouve que peu de personnes qui ressentent la même chose et pourtant nous somme une grande partie à être d&amp;#39;accord sur le fléau que cette action engendre.&lt;/p&gt;
+
+&lt;p&gt;Voilà quelques semaines, je suis tombé sur &lt;a href=&quot;http://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli&quot;&gt;un article sur The Guardian&lt;/a&gt; de &lt;a href=&quot;http://www.dobelli.com/&quot;&gt;Rolf Dobelli&lt;/a&gt; qui est l&amp;#39;auteur du livre &lt;em&gt;The Art of Thinking Clearly&lt;/em&gt;, livre que je venais d&amp;#39;acheter. En lisant l&amp;#39;article, un petit sourire me viens et après réflexion, je ne le trouve pas complet.&lt;/p&gt;
+
+&lt;p&gt;Très basiquement, Rolf Dobelli explique dans cet article que les news que nous lisons quotidiennement sont à notre cerveau ce que le sucre est à notre organisme, mais qu&amp;#39;elle nous soutirent toute notre créativité et réflexion. Il part du constat simple que les news sont généralement courtes, focalisé sur un sujet pour de mauvaises raisons et qu&amp;#39;elles ne sont là que pour vous distraire.&lt;/p&gt;
+
+&lt;p&gt;Pour ma part j&amp;#39;irais encore un peu plus loin car ces derniers jours m&amp;#39;ont fait prendre conscience que la presse que nous lisons quotidiennement est devenue une professionnelle du buzz.
+Tous les jours, on peut voir sur les principaux journaux des titres interpellants, relatant des faits incomplets dans le but de créer le plus de partage possible.&lt;/p&gt;
+
+&lt;p&gt;L&amp;#39;information est très souvent orientée politiquement en fonction des médias, les articles de plus en plus pauvres d&amp;#39;analyses et de réflexions mais aussi clairement redondants.&lt;/p&gt;
+
+&lt;p&gt;Cela fait donc quelques jours que j&amp;#39;essaie de ne plus aller lire les informations sur les journeaux Français afin de voir l&amp;#39;impact que cela produira.&lt;/p&gt;
+
+&lt;p&gt;À noter que lire les médias d&amp;#39;informations quotidienne n&amp;#39;a rien à voir avec le fait de faire de la veille. Je ne me contredis en rien, faire de la veille -  malgré certaines ressemblances avec l&amp;#39;actualité - a pour but de vous faire gagner en compétences contrairement aux informations quotidiennes.&lt;/p&gt;
+
+&lt;p&gt;Je serais curieux d&amp;#39;avoir vos retours là dessus, donc n&amp;#39;hésitez pas à me contacter ou à commenter.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://blog.julienbordellier.com//mail/2013/08/02/de-gmail-a-fastmail</id>
+    <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/mail/2013/08/02/de-gmail-a-fastmail.html"/>
+    <title>De Gmail a FastMail</title>
+    <updated>2013-08-02T05:43:00+08:00</updated>
+    <author>
+      <name>Julien Bordellier</name>
+      <uri>http://blog.julienbordellier.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Toutes ces histoires de mails que nous entendons depuis quelques jours, concernant la vie privée, le rajout de &lt;a href=&quot;http://news.cnet.com/8301-1023_3-57594819-93/google-starts-placing-ads-directly-in-gmail-inboxes/&quot;&gt;publicités dans les onglets de certaines boîtes mail&lt;/a&gt;, mais aussi la volonté de gérer mes mails de façon plus flexible.
+Ces trois principales raisons sont celles de ma migration entre &lt;a href=&quot;http://gmail.com&quot;&gt;GMail&lt;/a&gt; et &lt;a href=&quot;http://fastmail.fm&quot;&gt;FastMail&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;J&amp;#39;aimerais donc partager avec vous ma migration, comment cela s&amp;#39;est passé et mon sentiment après plus de 3semaines d&amp;#39;utilisation.&lt;/p&gt;
+
+&lt;p&gt;FastMail est une boîte de quelques developpeurs, proposant un service d&amp;#39;e-mail dont les atouts sont à mes yeux très intéressants. Le service est gratuit pour un usage limité mais dispose d&amp;#39;offres assez bien disposées qui coûtent quelques dollars par mois, pour avoir un service d&amp;#39;une très grande qualité.&lt;/p&gt;
+
+&lt;p&gt;Premièrement, le but est d&amp;#39;offrir un service rapide. Vous me direz que c&amp;#39;est ce qu&amp;#39;on attend d&amp;#39;un service comprenant le mot &amp;quot;fast&amp;quot;… et vous avez totalement raison.&lt;/p&gt;
+
+&lt;p&gt;Ensuite, je peux enfin être certain que je ne subirais aucune publicité intrusive sur ma boîte mail (je reconnais que je paie pour ma tranquillité).&lt;/p&gt;
+
+&lt;p&gt;Dernier point à mes yeux qui répond à ce que j&amp;#39;attendais, c&amp;#39;est que le service propose une pléiade d&amp;#39;options qui en font à mon sens sa principale force.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parmi ces options je noterais quand même la possibilité d&amp;#39;utiliser son nom de domaine, ses propres DNS, de créer des alias ainsi que des listes de distribution en quelques clicks.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;L&amp;#39;anti-spam marche à merveille (certains le disent même supérieur aux concurrents) mais ce qui m&amp;#39;a le plus étonné, c&amp;#39;est la facilité de migration…&lt;/p&gt;
+
+&lt;p&gt;En effet, FastMail met à disposition un connecteur IMAP qui va récupérer tous vos mails provenant d&amp;#39;une autre boîte ! Pour GMail, rien de plus simple, armé de vos identifiants, vous n&amp;#39;avez plus qu&amp;#39;à demander un import (qui se fait assez rapidement, 2.5Go de mail en environ 1h).&lt;/p&gt;
+
+&lt;p&gt;Le service est pour l&amp;#39;instant stable, chiffré de bout en bout (TLS) et vraiment rapide, c&amp;#39;est là que je me rends compte à quel point GMail… c&amp;#39;est lent.&lt;/p&gt;
+
+&lt;p&gt;Je rajouterais que pour les personnes qui voyagent souvent dans les pays où notre ami GMail n&amp;#39;est pas tous les jours le bienvenu, FastMail n&amp;#39;est bloqué dans aucun pays. Je vais pour ma part en Chine dans quelques jours et je suis content de savoir que mes mails ne resteront pas en France !&lt;/p&gt;
+
+&lt;p&gt;Pour ce qui est des projets visant à &lt;a href=&quot;http://www.mailpile.is/&quot;&gt;révolutionner le mail&lt;/a&gt; je préfère pour l&amp;#39;instant regarder comment cela évolue et pourquoi pas changer une fois que tout sera beaucoup plus éprouvé. Les mails restent encore un outil indispensable dont beaucoup d&amp;#39;entre nous ne peuvent pas se passer.&lt;/p&gt;
+
+&lt;p&gt;Si vous avez des questions par rapport à l&amp;#39;utilisation quotidienne, n&amp;#39;hésitez pas : @jstoja !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/fastmail.jpg&quot; alt=&quot;Capture d&amp;#39;écran de fastmail&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://blog.julienbordellier.com//veille/2013/07/02/comment-faire-sa-veille</id>
+    <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/veille/2013/07/02/comment-faire-sa-veille.html"/>
+    <title>Comment faire sa veille ?</title>
+    <updated>2013-07-02T19:21:00+08:00</updated>
+    <author>
+      <name>Julien Bordellier</name>
+      <uri>http://blog.julienbordellier.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Encore aujourd&amp;#39;hui j&amp;#39;entends, je vois et je lis de plus en plus de personnes disant faire de la veille,
+que ce soit des développeurs, des avocats, des entrepreneurs, des juristes ou encore des passionnés de nouvelles technologies
+et pourtant, c&amp;#39;est encore si rare...&lt;/p&gt;
+
+&lt;p&gt;Mon idée est donc d&amp;#39;expliquer, à ceux qui n&amp;#39;en font pas, quel est le principe, pourquoi le faire et comment le faire. À noter que je ne présente pas LA méthode pour faire de la veille, mais bien celle que j&amp;#39;ai prise au fil du temps et qui me convient.&lt;/p&gt;
+
+&lt;h3&gt;Qu&amp;#39;est-ce que la veille ?&lt;/h3&gt;
+
+&lt;p&gt;La veille est le simple fait de s&amp;#39;informer, à intervalles réguliers, sur un ou plusieurs sujet.
+Cela passe donc par la recherche, la sélection et la consommation d&amp;#39;informations qui peut varier d&amp;#39;un rythme hebdomadaire jusqu&amp;#39;à pour certains plusieurs fois dans une même journée !&lt;/p&gt;
+
+&lt;p&gt;On peut par exemple évoquer des types de veilles concernant un centre d&amp;#39;intérêt particulier, comme &amp;quot;veille technologique&amp;quot; qui sous-entend faire de la veille sur tout ce qui se rapproche (de prés ou de loin) aux nouvelles technologies.&lt;/p&gt;
+
+&lt;p&gt;La veille comprend cependant une notion d&amp;#39;actualité, de mise à jour et de recherche continue.
+À la différence de la recherche d&amp;#39;information dans un livre qui peut être définie comme de la documentation,
+la veille doit privilégier les sources les plus récentes possibles.&lt;/p&gt;
+
+&lt;p&gt;Les informations peuvent venir de tous horizons, que ce soit le site d&amp;#39;un bloggeur, un magazine spécialisé, où encore un site d&amp;#39;actualité, tout est à prendre !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Au fond... nous faisons tous de la veille à un moment de la journée en regardant le JT de 20h, lisant Le Monde ou en écoutant RMC à la radio. Le tout est d&amp;#39;appliquer cela à d&amp;#39;autres domaines !&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Le reste de cet article sera axé sur la veille technologique qui devient de plus en plus nécessaire à toutes personnes travaillant de prés ou de loin dans le domaine de l&amp;#39;IT.&lt;/p&gt;
+
+&lt;h3&gt;Pourquoi faire de la veille ?&lt;/h3&gt;
+
+&lt;p&gt;Bien que l&amp;#39;idée soit évidente pour la veille &amp;quot;sociale&amp;quot;, encore beaucoup de personnes ne font que peu de veille technologique voir pas du tout.&lt;/p&gt;
+
+&lt;p&gt;Les principales raisons que j&amp;#39;ai pu entendre pour justifier le fait de ne pas faire de veille technologique :&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Je travaille avec la technologie X donc je fais ma veille sur X, pas besoin de la faire du Y...&lt;/li&gt;
+&lt;li&gt;Je n&amp;#39;ai pas le temps de faire de la veille avec tout le travail que j&amp;#39;ai déjà.&lt;/li&gt;
+&lt;li&gt;Pourquoi pas mais j&amp;#39;y gagne quoi... ?&lt;/li&gt;
+&lt;li&gt;Pourquoi pas mais je sais pas vraiment où trouver les informations...&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ok donc, brisons la glace, la veille technologique ne peut &lt;strong&gt;PAS&lt;/strong&gt; se faire que sur une seule technologie ou un seul secteur d&amp;#39;activité, elle ne fait &lt;strong&gt;PAS&lt;/strong&gt; perdre de temps, vous y gagnez &lt;strong&gt;TOUT&lt;/strong&gt; et vous trouverez des informations &lt;strong&gt;PARTOUT&lt;/strong&gt; (si vous vous en donnez les moyens).&lt;/p&gt;
+
+&lt;p&gt;Premièrement, faire de la veille technologique sur un seul point n&amp;#39;est plus pensable, tous les jours de nouveaux projets voient le jour, de nouveaux outils sont créés, de nouvelles pratiques se mettent en place etc... et tout ça dans le seul et unique but de faciliter la vie des utilisateurs.&lt;/p&gt;
+
+&lt;p&gt;Ensuite la veille ne fait pas perdre de temps contrairement à ce que les gens croient. Elle en fait peut-être même gagner. Combien de fois un développeur ayant fait de la veille se souvient avoir vu un projet ou une librairie qui va faire gagner 10jours de travail à son équipe ? Combien de fois un développeur ayant fait de la veille se souviens avoir vu un article parlant d&amp;#39;une manière d&amp;#39;optimiser son code et faire gagner quelques précieuses secondes d&amp;#39;execution à son programme ?
+On ne les compte plus...&lt;/p&gt;
+
+&lt;p&gt;Vous y gagnerez :
+1. Une connaissance accrue dans beaucoup de domaines. (le savoir c&amp;#39;est le pouvoir !)
+2. Des journées plus heureuses à ne plus ré-inventer la roue.
+3. À pouvoir faire gagner du temps à votre équipe et de l&amp;#39;argent à votre boîte.
+4. ... j&amp;#39;en passe ...&lt;/p&gt;
+
+&lt;p&gt;Exemple 1 : Je suis développeur, mon patron me demande d&amp;#39;afficher des graphiques en Javascript pour le meeting de ce soir car le pro de la boîte dans ce domaine est malade. La plupart du temps l&amp;#39;idée serait d&amp;#39;ouvrir google rapidement ou de re-coder tout depuis 0. Avec la veille on se rend compte que http://www.chartjs.org/ est tip-top et que c&amp;#39;est sorti récemment, la librairie est encore peu connue et pourtant superbe à utiliser !&lt;/p&gt;
+
+&lt;p&gt;Exemple 2 : Je suis développeur et je code sous OSX, mon copain dans l&amp;#39;open-space utilise Fedora et le serveur est sous Debian. Trois systèmes ayant leurs différences. Je lance l&amp;#39;application qui marche sur mon ordinateur, ça marche sur celui de mon copain, mais pas sur le serveur. CRAP. Heureusement, en faisant de la veille je me rappelle que http://vagrantup.com/ existe et que ça nous simplifierait grandement la vie !&lt;/p&gt;
+
+&lt;h3&gt;Comment faire sa veille ?&lt;/h3&gt;
+
+&lt;p&gt;Comme je l&amp;#39;ai précédemment dit, je ne présente pas la méthode ultime pour faire de la veille, mais je présente comment je fonctionne.
+Vous pouvez vous en inspirer, prendre exactement la même et l&amp;#39;adapter au fil du temps etc... mais je pense que c&amp;#39;est un bon départ.&lt;/p&gt;
+
+&lt;h4&gt;Etablir une liste de sujets cibles&lt;/h4&gt;
+
+&lt;p&gt;En fonction de votre travail, de votre secteur, vous pourrez choisir des sources ciblées,
+mais il ne faudra pas oublier que le but est de rester le plus ouvert possible !&lt;/p&gt;
+
+&lt;p&gt;Je vous conseille donc de ne pas choisir beaucoup de sujets ciblés mais plutôt d&amp;#39;en choisir 2/3 maximum,
+ça vous obligera à rester ouvert.&lt;/p&gt;
+
+&lt;h4&gt;Sélectionner ses sites favoris&lt;/h4&gt;
+
+&lt;p&gt;Selon vos sujets, vous pouvez sélectionner une liste de blogs, de site d&amp;#39;actualités, les avoir en favoris et les consulter à intervalles réguliers.
+Je vous conseille donc d&amp;#39;avoir pour principale source un site de news qui rassemble des articles de tous horizons.&lt;/p&gt;
+
+&lt;p&gt;L&amp;#39;idéal étant les site de news communautaires, les posts défilent plus rapidement et sont beaucoup plus variés.&lt;/p&gt;
+
+&lt;p&gt;Exemples de site de news communautaires:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HackerNews - http://hackerne.ws/&lt;/li&gt;
+&lt;li&gt;HumanCoder News - http://news.humancoders.com/&lt;/li&gt;
+&lt;li&gt;Science subreddit - http://www.reddit.com/r/science&lt;/li&gt;
+&lt;li&gt;Programming subreddit - http://www.reddit.com/r/programming&lt;/li&gt;
+&lt;li&gt;Technology subreddit - http://www.reddit.com/r/technology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Filtrer les informations&lt;/h4&gt;
+
+&lt;p&gt;Vous vous en doutez, toutes ces sources engendrent &lt;strong&gt;beaucoup&lt;/strong&gt; d&amp;#39;informations qui ont toutes leur degrés de pertinence.
+Afin de ne pas passer la journée à faire de la veille, il va falloir filtrer ces informations et décider lesquelles lire, lesquelles marquer pour lire plus tard etc...&lt;/p&gt;
+
+&lt;p&gt;Personnellement, je juge l&amp;#39;importance des articles par expérience, en fonction du titre, du sujet et de sa popularité.&lt;/p&gt;
+
+&lt;p&gt;Un article avec un sujet très éloigné et qui ne m&amp;#39;intéressera pas,
+me fera perdre du temps car je ne retiendrai que peu d&amp;#39;informations.&lt;/p&gt;
+
+&lt;p&gt;Certains articles peuvent être très longs, mais si vous jugez que le sujet est intéressant et peut vous apporter quelque-chose,
+&lt;strong&gt;lisez le&lt;/strong&gt; sinon passez votre chemin. Le but de la veille reste de retenir des informations,
+pas de gâcher votre temps à essayer de la faire.&lt;/p&gt;
+
+&lt;h4&gt;Consommer et sauvegarder&lt;/h4&gt;
+
+&lt;p&gt;Lorsque vous lisez un article, c&amp;#39;est comme beaucoup de chose... il ne faut pas le faire à moitié.
+Si vous avez sélectionné une news qui vous intéresse, il va falloir valoriser le temps de recherche
+et de sélection en récoltant le plus d&amp;#39;informations possibles.&lt;/p&gt;
+
+&lt;p&gt;Cela veut dire, ne pas lire un article en sautant des paragraphes, le lire d&amp;#39;une seule traite, faire des recherches si des notions sont nécessaires pour le comprendre (ça servira de toute manière plus tard !) etc...&lt;/p&gt;
+
+&lt;p&gt;Pour ma part, certaines fois il m&amp;#39;arrive de ne pas avoir le temps de tout lire en une journée... Je laisse donc des onglets ouvert avec les articles à lire. Si jamais je dois éteindre l&amp;#39;ordinateur, il y a plein de plugins disponibles qui permettent de sauvegarder un groupe d&amp;#39;onglets. Des applications comme Pocket existent et permettent de sauvegarder des liens sur un compte et de pouvoir les consulter sur une autre plateforme pour plus tard. Idéal pour lire ses articles sur son téléphone dans le métro ou sur la tablette à la maison.&lt;/p&gt;
+
+&lt;h4&gt;Le temps&lt;/h4&gt;
+
+&lt;p&gt;Une bonne veille est régulière, tout le monde s&amp;#39;accorde à le dire.&lt;/p&gt;
+
+&lt;p&gt;Mais régulière comment ?&lt;/p&gt;
+
+&lt;p&gt;Pour ma part je fais mes recherches le matin en arrivant, le midi après la pause déjeuner, et le soir en rentrant. Pour ce qui est de la lecture, j&amp;#39;aime bien lire un article après être allé chercher mon café, ou après une pause/réunion. Quand il m&amp;#39;en reste certains et que je trouve le temps, je les lis aussi le soir en rentrant.&lt;/p&gt;
+
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Faites de la veille, de la façon que vous voulez, sur les sujets que vous voulez. Que ce soit le matin, le soir, toutes les deux heures ou tous les 2 jours, faites-en.&lt;/p&gt;
+
+&lt;p&gt;C&amp;#39;est une chance inouïe pour monter en compétence et être plus efficace au quotidien, une chance de plus d&amp;#39;être heureux au travail et une chance de plus d&amp;#39;en apprendre tous les jours.&lt;/p&gt;
+</content>
+  </entry>
+  
+ 
+</feed>
