@@ -16,12 +16,13 @@ Contents
 */
 
 $color: $purpleHeroku;
+$bg-color: #f9f7f4;
 
 // 1. Shared Styles
 // --------------------------------------------------
 
 body{
-    background-color: $color;
+    background-color: $bg-color;
 }
 
 main.container, main.content > .container{
@@ -74,7 +75,7 @@ hr{
 // --------------------------------------------------
 
 .content{
-    background-color: #f9f7f4;
+    background-color: $bg-color;
 
     & > .container{
        min-height: 58em;  
