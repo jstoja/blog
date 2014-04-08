@@ -531,7 +531,6 @@ pre code {
   src: url("../font/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("../font/fontawesome-webfont.woff") format("woff"), url("../font/fontawesome-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
-
 /*  Font Awesome styles
     ------------------------------------------------------- */
 /* includes sprites.less reset */
@@ -653,35 +652,30 @@ ul.icons li [class^="icon-"], ul.icons li [class*=" icon-"] {
 
   100% {
     -moz-transform: rotate(359deg); } }
-
 @-webkit-keyframes spin {
   0% {
     -webkit-transform: rotate(0deg); }
 
   100% {
     -webkit-transform: rotate(359deg); } }
-
 @-o-keyframes spin {
   0% {
     -o-transform: rotate(0deg); }
 
   100% {
     -o-transform: rotate(359deg); } }
-
 @-ms-keyframes spin {
   0% {
     -ms-transform: rotate(0deg); }
 
   100% {
     -ms-transform: rotate(359deg); } }
-
 @keyframes spin {
   0% {
     transform: rotate(0deg); }
 
   100% {
     transform: rotate(359deg); } }
-
 /*  Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
     readers do not read off random characters that represent icons */
 .icon-glass:before {
@@ -1758,7 +1752,6 @@ hr {
   font-style: normal;
   font-weight: 400;
   src: local("Raleway"), url(http://themes.googleusercontent.com/static/fonts/raleway/v6/IczWvq5y_Cwwv_rBjOtT0w.woff) format("woff"); }
-
 .a-hover, .entries h3, .entries a, .home-icon a {
   color: #333333;
   -webkit-transition: 0.3s linear;
@@ -1866,6 +1859,13 @@ hr {
   color: #6567a5; }
 .post h2 span {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+.post h3 {
+  font-family: 'Raleway';
+  font-weight: normal;
+  padding: 0.2em 0 0.2em;
+  letter-spacing: 0.05em;
+  font-size: 2.5em;
+  color: #6567a5; }
 .post section {
   font-family: georgia,times,serif;
   line-height: 1.9em;
@@ -1893,7 +1893,6 @@ footer .container a {
 
   @page {
     margin: 0.5cm; }
-
   h2, h3 {
     orphans: 3;
     widows: 3;
