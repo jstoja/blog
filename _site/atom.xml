@@ -4,13 +4,72 @@
   <title>blog.julienbordellier.com</title>
   <link href="http://blog.julienbordellier.com/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.julienbordellier.com/atom.xml"/>
-  <updated>2014-04-08T22:34:44+08:00</updated>
+  <updated>2014-04-10T21:18:52+08:00</updated>
   <id>http://blog.julienbordellier.com/</id>
   <author>
     <name>Julien Bordellier</name>
     <email>me@julienbordellier.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://blog.julienbordellier.com//veille/2014/04/10/re-mangez-du-rss</id>
+    <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/veille/2014/04/10/re-mangez-du-rss.html"/>
+    <title>(Re-)Mangez du RSS !</title>
+    <updated>2014-04-10T20:00:00+08:00</updated>
+    <author>
+      <name>Julien Bordellier</name>
+      <uri>http://blog.julienbordellier.com/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Lors &lt;a href=&quot;http://blog.julienbordellier.com/veille/2013/07/02/comment-faire-sa-veille.html&quot;&gt;d&amp;#39;un précédent article&lt;/a&gt; je vous avais parlé de l&amp;#39;importance de faire de la veille, peu importe le sujet, mais je vous avais aussi donné quelques pistes et ressources afin de bien débuter.&lt;/p&gt;
+
+&lt;p&gt;Dans cet article, je vais vous parler de ce qui me permet de mieux faire ma veille quotidienne, en diversifiant les sujets et les sources ainsi que de l&amp;#39;automatiser afin de ne rien oublier et d&amp;#39;être plus efficace. Cet outil n&amp;#39;est autre que le &lt;strong&gt;RSS&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Le RSS c&amp;#39;est quoi ?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;RSS (sigle venant de l&amp;#39;anglais « Really Simple Syndication ») est une famille de formats de données utilisés pour la syndication de contenu Web.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Source: &lt;a href=&quot;http://fr.wikipedia.org/wiki/RSS&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Derrière cette avalanche de gros mots, une utilisation très pratique est possible.&lt;/p&gt;
+
+&lt;p&gt;Un flux RSS étant mis à jour à chaque fois que le site cible est mis à jour, il est donc un moyen de rapidement voir si un nouvel article a été publié.&lt;/p&gt;
+
+&lt;p&gt;Vous me direz qu&amp;#39;il vous suffit d&amp;#39;un clic dans votre barre des favoris, et en quelques secondes vous pouvez voir si votre source d&amp;#39;information préférée comporte un nouvel article ou non !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eh bien RSS vous permet d&amp;#39;être encore plus flemmard.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Par exemple, vous alliez &lt;strong&gt;tous les matins&lt;/strong&gt; sur votre blog préféré, dans l&amp;#39;espoir d&amp;#39;une passionnante lecture, sans savoir qu&amp;#39;un flux RSS était disponible.
+Mais hélas, l&amp;#39;auteur de ce blog étant très occupé, il ne poste &lt;strong&gt;qu&amp;#39;une fois par mois&lt;/strong&gt;...
+Cela veut dire que pendant tous les autres jours du mois, vous perdez votre temps à aller sur son blog à vérifier !&lt;/p&gt;
+
+&lt;p&gt;Un flux RSS lu par un lecteur, ira lui, plusieurs fois par jour vérifier si un nouvel article est disponible, et vous notifiera (si vous avez l&amp;#39;option activée) qu&amp;#39;un nouvel article en ligne, en vous donnant le lien, et souvent même le contenu de l&amp;#39;article !&lt;/p&gt;
+
+&lt;p&gt;Vous gagnez donc un temps précieux, qui vous permet de passer plus de temps à lire d&amp;#39;autres articles, mais aussi, et à mon sens le plus important, vous permet d&amp;#39;avoir beaucoup plus de sources.&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez donc catégoriser vos flux et donc avoir plus de sujets \o/ !&lt;/p&gt;
+
+&lt;h3&gt;Comment être encore plus flemmard ?&lt;/h3&gt;
+
+&lt;p&gt;Alors je vous vois venir, avec des &amp;quot;ouai, ouai... mais c&amp;#39;est encore un truc de geek/flemmard ça.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;Eh bien non. Certes il existe des solutions de &amp;quot;geek&amp;quot; à mettre en place sois même comme &lt;a href=&quot;http://tt-rss.org/&quot;&gt;Tiny Tiny RSS&lt;/a&gt; que j&amp;#39;utilise, mais il existe aussi des solutions simple d&amp;#39;utilisation et même gratuite !&lt;/p&gt;
+
+&lt;p&gt;Parmi les solutions connues vous avez par exemple &lt;a href=&quot;http://feedly.com/&quot;&gt;Feedly&lt;/a&gt; que je n&amp;#39;ai pas testé mais qui a de très bonnes critiques.&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez désormais suivre beaucoup de sujet simplement, mais aussi des sources que vous avez oublié car les nouveautés sont trop irrégulières pour vous !&lt;/p&gt;
+
+&lt;p&gt;Grâce à mon lecteurs, je suis donc maintenant en plus de toute ma veille startup et informatique, l&amp;#39;actualité musicale qui et scientifique ! Le top du top !&lt;/p&gt;
+
+&lt;h3&gt;tl;dr&lt;/h3&gt;
+
+&lt;p&gt;Les RSS c&amp;#39;est bon pour la productivité, mettez en partout. Ça s&amp;#39;installe très vite sur une instance AWS et existe aussi en service sur des sites comme Feedly.&lt;/p&gt;
+
+&lt;p&gt;Et vous alors, utilisez vous un lecteur RSS ? Si cela ne marche pas pour vous, je serais curieux de savoir pour quelles raisons !&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://blog.julienbordellier.com//dev/2014/04/08/pourquoi-jaime-ruby</id>
