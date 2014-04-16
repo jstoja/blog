@@ -1,0 +1,262 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import "compass/css3";
+@import "font-awesome/font-awesome";
+@import "syntax";
+
+@import "base";
+
+@include font-face("Lobster Two Regular", font-files("/font/lobstertwo-regular-webfont.woff", "font/lobstertwo-regular-webfont.ttf", "font/lobstertwo-regular-webfont.svg"));
+@include font-face("Chunkfive Regular", font-files("/font/chunkfive-webfont.woff", "font/chunkfive-webfont.ttf", "font/chunkfive-webfont.svg"));
+@include font-face("QuickSand", font-files("/font/quicksand-regular-webfont.woff", "font/quicksand-regular-webfont.ttf", "font/quicksand-regular-webfont.svg"));
+@include font-face("QuickSandBold", font-files("/font/quicksand-bold-webfont.woff", "font/quicksand-bold-webfont.ttf", "font/quicksand-bold-webfont.svg"));
+@include font-face("Aller Regular", font-files("/font/aller_rg-webfont.woff", "/font/aller_rg-webfont.ttf", "/font/aller_rg-webfont.svg"));
+ 
+.container {
+  background-color: $bgColor;
+}
+
+.head {
+  margin: 0.5em;
+  font-family: "Quicksand";
+  h1 {
+    color: $mainColor;
+    font-size: 4.0em;
+    margin-top: 0.5em;
+  }
+  h2 {
+    font-size: 1.5em;
+    margin-top: 0.5em;
+  }
+}
+
+.content {
+  article {
+    margin: 2.5em 1.0em 2.0em 1.0em;
+
+    &:last-child {
+    }
+    
+    a {
+      color: $mainColor;
+      &:visited {
+        color: shade($mainColor, 30);
+      }      
+      &:hover {
+        color: tint($mainColor, 30);
+      }      
+    }
+  }
+
+  h1 {
+    font-family: "Lobster Two Regular";
+    color: $mainColor;
+    font-size: 2.0em;
+    margin-top: 0.5em;
+    a {
+      &:visited {
+        color: $mainColor;
+      }      
+      &:hover {
+        color: tint($mainColor, 20);
+      }      
+    }
+  }
+
+  h2 {
+    margin-top: 0.5em;
+    text-align: right;
+    font-family: "Quicksand";
+    font-size: 1.2em;
+  }
+
+  p {
+    font-family: "Quicksand";
+    margin-top: 0.8em;
+    text-align: justify;
+  }
+  img {
+    max-width: 90%;
+    margin-left: 5%;
+    text-align: center;
+  }
+
+}
+
+.highlight {
+  margin-top: 1.0em;
+}
+
+footer {
+  background-color: $mainColor;
+  font-family: "Quicksand";
+  color: white;
+  padding: 2em 0 2em 0;
+  .footer-content {
+    max-width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    a {
+      font-family: "Aller";
+      font-size: 1.16em;
+      color: white;
+      text-decoration: none;
+      &:hover {
+        color: shade(red, 20);
+      }
+    }
+  }
+}
+
+.fa-color {
+  color: $mainColor;
+}
+
+.post-header {
+  margin: 2em 0.8em 1em 0.8em;
+  border-bottom: 1px solid black;
+
+  .home {
+    width: 100%;
+    i {
+      width: 10%;
+      margin-left: 45%;
+    }
+  }
+
+  h1 {
+    font-family: "Lobster Two Regular";
+    color: $mainColor;
+    font-size: 2.2em;
+  }
+
+  h2 {
+    margin-top: 0.8em;
+    text-align: right;
+    font-family: "Quicksand";
+    font-size: 1.3em;
+  }
+
+  .social {
+    margin-bottom: 0.2em;
+    a {
+      text-decoration: none;
+    }
+  }    
+}
+
+.blogpost {
+  margin: 0.2em 0.8em 0 0.8em;
+
+  blockquote {
+    font-family: "Quicksand Italic";
+    padding: 0.2em 0.8em 0.8em 0.8em;
+    border: 1px solid black;
+  }
+
+  p {
+    font-family: "Quicksand";
+    margin-top: 0.8em;
+    text-align: justify;
+  }
+  img {
+    max-width: 90%;
+    margin-left: 5%;
+    text-align: center;
+  }
+
+  h1 {
+    margin: 1em 0 0.8em 0.8em;
+    font-family: "Lobster Two Regular";
+    color: $mainColor;
+    font-size: 1.8em;    
+  }
+
+  a {
+    color: $mainColor;
+    &:visited {
+      color: shade($mainColor, 30);
+    }      
+    &:hover {
+      color: tint($mainColor, 30);
+    }      
+  }
+
+  ul {
+    list-style: disc outside none;
+    margin-left: 1.0em;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  strong {
+    font-family: "QuickSandBold";
+  }
+}
+
+.navigation {
+  margin: 2em 0 1em 0.8em;
+  text-align: center;
+  span {
+    font-family: "Lobster Two Regular";
+    color: $mainColor;
+    font-size: 1.6em;    
+  }
+  .left {
+    margin-right: 50%;
+  }
+  .right {
+    margin-left: 50%;
+  }
+}
+
+@media (min-width: 800px) {
+  body {
+    max-width: 60%;
+    margin-left: 20%;
+    .content {
+      p {
+        font-size: 1.1em;
+      }
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+
+  }
+}
+
+@media (min-width: 600px) {
+  footer {
+    @include border-top-radius(10px);
+  }
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+  body {
+    max-width: 80%;
+    margin-left: 10%;
+  }
+}
+
+// @media (min-width: 800px) and (max-width: 1200px) {
+//   body {
+//     max-width: 60%;
+//     margin-left: 20%;
+//   }
+// }
+
+@media (min-width: 1200px) {
+  body {
+    max-width: 50%;
+    margin-left: 25%;
+  }  
+}

@@ -10,7 +10,7 @@ Il y a bientôt 3ans, j'ai découvert [Ruby](http://ruby-lang.org/fr/) tout à f
 
 Grâce à cette superbe communauté j'ai pu discuter lors d'Apéros Ruby, avec [Anthony Eden](http://anthonyeden.com/) créateur de DNSsimple, mais aussi [Matt Aimonetti](http://matt.aimonetti.net/) maintenant co-fondateur Splice. J'ai pu rencontrer plusieurs développeurs de Github et Heroku ou encore des personnes travaillant sur le langage en lui même.
 
-###Le langage
+#Le langage
 
 De cette curiosité est né une véritable admiration. Ruby est maintenant la technologie par défaut que je choisis quand je dois commencer un projet. Peu importe le type ou la taille du projet, Ruby s'avère être un langage polyvalent, offrant une multitude de modules qui vous permettent d'aborder sereinement toutes les problématiques que vous pouvez rencontrer.
 
@@ -23,7 +23,7 @@ C'est pour cela qu'il a très rapidement été adopté par beaucoup de start-ups
 
 Séduit par ce langage, je l'utilise au quotidien pour mes projets et mes études.
 
-###Ses "gems"
+#Ses "gems"
 
 Ruby m'apporte des packages pour faire à peu près tout ce que les autres langages me proposent.
 
@@ -41,9 +41,11 @@ Ruby m'apporte des packages pour faire à peu près tout ce que les autres langa
 
 Et tout cela à la portée d'une seule ligne de commande ! ;-)
 
-	gem install xxxx
+```sh
+gem install xxxx
+```
 
-###Conclusion
+#Conclusion
 
 Ruby est pour moi un outil indispensable qui me permet d'achever tous mes projets facilement et avec plaisir. Sa communauté est accueillante, chaleureuse et pleine de bon conseils sur des sujets bien au delà du langage lui même.
 

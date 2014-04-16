@@ -12,7 +12,7 @@ Lors [d'un précédent article](http://blog.julienbordellier.com/veille/2013/07/
 
 Dans cet article, je vais vous parler de ce qui me permet de mieux faire ma veille quotidienne, en diversifiant les sujets et les sources ainsi que de l'automatiser afin de ne rien oublier et d'être plus efficace. Cet outil n'est autre que le **RSS**.
 
-###Le RSS c'est quoi ?
+#Le RSS c'est quoi ?
 > RSS (sigle venant de l'anglais « Really Simple Syndication ») est une famille de formats de données utilisés pour la syndication de contenu Web.
 
 *Source: [Wikipedia](http://fr.wikipedia.org/wiki/RSS)*
@@ -35,7 +35,7 @@ Vous gagnez donc un temps précieux, qui vous permet de passer plus de temps à 
 
 Vous pouvez donc catégoriser vos flux et donc avoir plus de sujets \o/ !
 
-###Comment être encore plus flemmard ?
+#Comment être encore plus flemmard ?
 
 Alors je vous vois venir, avec des "ouai, ouai... mais c'est encore un truc de geek/flemmard ça."
 
@@ -47,7 +47,7 @@ Vous pouvez désormais suivre beaucoup de sujet simplement, mais aussi des sourc
 
 Grâce à mon lecteurs, je suis donc maintenant en plus de toute ma veille startup et informatique, l'actualité musicale qui et scientifique ! Le top du top !
 
-###tl;dr
+#tl;dr
 Les RSS c'est bon pour la productivité, mettez en partout. Ça s'installe très vite sur une instance AWS et existe aussi en service sur des sites comme Feedly.
 
 Et vous alors, utilisez vous un lecteur RSS ? Si cela ne marche pas pour vous, je serais curieux de savoir pour quelles raisons !

@@ -12,7 +12,7 @@ et pourtant, c'est encore si rare...
 
 Mon idée est donc d'expliquer, à ceux qui n'en font pas, quel est le principe, pourquoi le faire et comment le faire. À noter que je ne présente pas LA méthode pour faire de la veille, mais bien celle que j'ai prise au fil du temps et qui me convient.
 
-### Qu'est-ce que la veille ?
+# Qu'est-ce que la veille ?
 La veille est le simple fait de s'informer, à intervalles réguliers, sur un ou plusieurs sujet.
 Cela passe donc par la recherche, la sélection et la consommation d'informations qui peut varier d'un rythme hebdomadaire jusqu'à pour certains plusieurs fois dans une même journée !
 
@@ -28,7 +28,7 @@ Les informations peuvent venir de tous horizons, que ce soit le site d'un blogge
 
 Le reste de cet article sera axé sur la veille technologique qui devient de plus en plus nécessaire à toutes personnes travaillant de prés ou de loin dans le domaine de l'IT.
 
-### Pourquoi faire de la veille ?
+# Pourquoi faire de la veille ?
 Bien que l'idée soit évidente pour la veille "sociale", encore beaucoup de personnes ne font que peu de veille technologique voir pas du tout.
 
 Les principales raisons que j'ai pu entendre pour justifier le fait de ne pas faire de veille technologique :
@@ -55,19 +55,19 @@ Exemple 1 : Je suis développeur, mon patron me demande d'afficher des graphique
 
 Exemple 2 : Je suis développeur et je code sous OSX, mon copain dans l'open-space utilise Fedora et le serveur est sous Debian. Trois systèmes ayant leurs différences. Je lance l'application qui marche sur mon ordinateur, ça marche sur celui de mon copain, mais pas sur le serveur. CRAP. Heureusement, en faisant de la veille je me rappelle que http://vagrantup.com/ existe et que ça nous simplifierait grandement la vie !
 
-### Comment faire sa veille ?
+# Comment faire sa veille ?
 
 Comme je l'ai précédemment dit, je ne présente pas la méthode ultime pour faire de la veille, mais je présente comment je fonctionne.
 Vous pouvez vous en inspirer, prendre exactement la même et l'adapter au fil du temps etc... mais je pense que c'est un bon départ.
 
-#### Etablir une liste de sujets cibles
+## Etablir une liste de sujets cibles
 En fonction de votre travail, de votre secteur, vous pourrez choisir des sources ciblées,
 mais il ne faudra pas oublier que le but est de rester le plus ouvert possible !
 
 Je vous conseille donc de ne pas choisir beaucoup de sujets ciblés mais plutôt d'en choisir 2/3 maximum,
 ça vous obligera à rester ouvert.
 
-#### Sélectionner ses sites favoris
+## Sélectionner ses sites favoris
 Selon vos sujets, vous pouvez sélectionner une liste de blogs, de site d'actualités, les avoir en favoris et les consulter à intervalles réguliers.
 Je vous conseille donc d'avoir pour principale source un site de news qui rassemble des articles de tous horizons.
 
@@ -81,7 +81,7 @@ Exemples de site de news communautaires:
  * Programming subreddit - http://www.reddit.com/r/programming
  * Technology subreddit - http://www.reddit.com/r/technology
 
-#### Filtrer les informations
+## Filtrer les informations
 
 Vous vous en doutez, toutes ces sources engendrent **beaucoup** d'informations qui ont toutes leur degrés de pertinence.
 Afin de ne pas passer la journée à faire de la veille, il va falloir filtrer ces informations et décider lesquelles lire, lesquelles marquer pour lire plus tard etc...
@@ -95,7 +95,7 @@ Certains articles peuvent être très longs, mais si vous jugez que le sujet est
 **lisez le** sinon passez votre chemin. Le but de la veille reste de retenir des informations,
 pas de gâcher votre temps à essayer de la faire.
 
-#### Consommer et sauvegarder
+## Consommer et sauvegarder
 
 Lorsque vous lisez un article, c'est comme beaucoup de chose... il ne faut pas le faire à moitié.
 Si vous avez sélectionné une news qui vous intéresse, il va falloir valoriser le temps de recherche
@@ -105,7 +105,7 @@ Cela veut dire, ne pas lire un article en sautant des paragraphes, le lire d'une
 
 Pour ma part, certaines fois il m'arrive de ne pas avoir le temps de tout lire en une journée... Je laisse donc des onglets ouvert avec les articles à lire. Si jamais je dois éteindre l'ordinateur, il y a plein de plugins disponibles qui permettent de sauvegarder un groupe d'onglets. Des applications comme Pocket existent et permettent de sauvegarder des liens sur un compte et de pouvoir les consulter sur une autre plateforme pour plus tard. Idéal pour lire ses articles sur son téléphone dans le métro ou sur la tablette à la maison.
 
-#### Le temps
+## Le temps
 
 Une bonne veille est régulière, tout le monde s'accorde à le dire.
 
@@ -113,7 +113,7 @@ Mais régulière comment ?
 
 Pour ma part je fais mes recherches le matin en arrivant, le midi après la pause déjeuner, et le soir en rentrant. Pour ce qui est de la lecture, j'aime bien lire un article après être allé chercher mon café, ou après une pause/réunion. Quand il m'en reste certains et que je trouve le temps, je les lis aussi le soir en rentrant.
 
-### Conclusion
+# Conclusion
 
 Faites de la veille, de la façon que vous voulez, sur les sujets que vous voulez. Que ce soit le matin, le soir, toutes les deux heures ou tous les 2 jours, faites-en.
 

@@ -4,7 +4,7 @@
   <title>blog.julienbordellier.com</title>
   <link href="http://blog.julienbordellier.com/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.julienbordellier.com/atom.xml"/>
-  <updated>2014-04-10T21:18:52+08:00</updated>
+  <updated>2014-04-17T00:12:12+08:00</updated>
   <id>http://blog.julienbordellier.com/</id>
   <author>
     <name>Julien Bordellier</name>
@@ -25,7 +25,7 @@
 
 &lt;p&gt;Dans cet article, je vais vous parler de ce qui me permet de mieux faire ma veille quotidienne, en diversifiant les sujets et les sources ainsi que de l&amp;#39;automatiser afin de ne rien oublier et d&amp;#39;être plus efficace. Cet outil n&amp;#39;est autre que le &lt;strong&gt;RSS&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h3&gt;Le RSS c&amp;#39;est quoi ?&lt;/h3&gt;
+&lt;h1&gt;Le RSS c&amp;#39;est quoi ?&lt;/h1&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;RSS (sigle venant de l&amp;#39;anglais « Really Simple Syndication ») est une famille de formats de données utilisés pour la syndication de contenu Web.&lt;/p&gt;
@@ -51,7 +51,7 @@ Cela veut dire que pendant tous les autres jours du mois, vous perdez votre temp
 
 &lt;p&gt;Vous pouvez donc catégoriser vos flux et donc avoir plus de sujets \o/ !&lt;/p&gt;
 
-&lt;h3&gt;Comment être encore plus flemmard ?&lt;/h3&gt;
+&lt;h1&gt;Comment être encore plus flemmard ?&lt;/h1&gt;
 
 &lt;p&gt;Alors je vous vois venir, avec des &amp;quot;ouai, ouai... mais c&amp;#39;est encore un truc de geek/flemmard ça.&amp;quot;&lt;/p&gt;
 
@@ -63,7 +63,7 @@ Cela veut dire que pendant tous les autres jours du mois, vous perdez votre temp
 
 &lt;p&gt;Grâce à mon lecteurs, je suis donc maintenant en plus de toute ma veille startup et informatique, l&amp;#39;actualité musicale qui et scientifique ! Le top du top !&lt;/p&gt;
 
-&lt;h3&gt;tl;dr&lt;/h3&gt;
+&lt;h1&gt;tl;dr&lt;/h1&gt;
 
 &lt;p&gt;Les RSS c&amp;#39;est bon pour la productivité, mettez en partout. Ça s&amp;#39;installe très vite sur une instance AWS et existe aussi en service sur des sites comme Feedly.&lt;/p&gt;
 
@@ -84,7 +84,7 @@ Cela veut dire que pendant tous les autres jours du mois, vous perdez votre temp
 
 &lt;p&gt;Grâce à cette superbe communauté j&amp;#39;ai pu discuter lors d&amp;#39;Apéros Ruby, avec &lt;a href=&quot;http://anthonyeden.com/&quot;&gt;Anthony Eden&lt;/a&gt; créateur de DNSsimple, mais aussi &lt;a href=&quot;http://matt.aimonetti.net/&quot;&gt;Matt Aimonetti&lt;/a&gt; maintenant co-fondateur Splice. J&amp;#39;ai pu rencontrer plusieurs développeurs de Github et Heroku ou encore des personnes travaillant sur le langage en lui même.&lt;/p&gt;
 
-&lt;h3&gt;Le langage&lt;/h3&gt;
+&lt;h1&gt;Le langage&lt;/h1&gt;
 
 &lt;p&gt;De cette curiosité est né une véritable admiration. Ruby est maintenant la technologie par défaut que je choisis quand je dois commencer un projet. Peu importe le type ou la taille du projet, Ruby s&amp;#39;avère être un langage polyvalent, offrant une multitude de modules qui vous permettent d&amp;#39;aborder sereinement toutes les problématiques que vous pouvez rencontrer.&lt;/p&gt;
 
@@ -97,7 +97,7 @@ C&amp;#39;est pour cela qu&amp;#39;il a très rapidement été adopté par beauc
 
 &lt;p&gt;Séduit par ce langage, je l&amp;#39;utilise au quotidien pour mes projets et mes études.&lt;/p&gt;
 
-&lt;h3&gt;Ses &amp;quot;gems&amp;quot;&lt;/h3&gt;
+&lt;h1&gt;Ses &amp;quot;gems&amp;quot;&lt;/h1&gt;
 
 &lt;p&gt;Ruby m&amp;#39;apporte des packages pour faire à peu près tout ce que les autres langages me proposent.&lt;/p&gt;
 
@@ -111,9 +111,9 @@ C&amp;#39;est pour cela qu&amp;#39;il a très rapidement été adopté par beauc
 &lt;/ul&gt;
 
 &lt;p&gt;Et tout cela à la portée d&amp;#39;une seule ligne de commande ! ;-)&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;gem install xxxx
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh language-sh&quot; data-lang=&quot;sh&quot;&gt;gem install xxxx
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;h1&gt;Conclusion&lt;/h1&gt;
 
 &lt;p&gt;Ruby est pour moi un outil indispensable qui me permet d&amp;#39;achever tous mes projets facilement et avec plaisir. Sa communauté est accueillante, chaleureuse et pleine de bon conseils sur des sujets bien au delà du langage lui même.&lt;/p&gt;
 
@@ -208,7 +208,7 @@ et pourtant, c&amp;#39;est encore si rare...&lt;/p&gt;
 
 &lt;p&gt;Mon idée est donc d&amp;#39;expliquer, à ceux qui n&amp;#39;en font pas, quel est le principe, pourquoi le faire et comment le faire. À noter que je ne présente pas LA méthode pour faire de la veille, mais bien celle que j&amp;#39;ai prise au fil du temps et qui me convient.&lt;/p&gt;
 
-&lt;h3&gt;Qu&amp;#39;est-ce que la veille ?&lt;/h3&gt;
+&lt;h1&gt;Qu&amp;#39;est-ce que la veille ?&lt;/h1&gt;
 
 &lt;p&gt;La veille est le simple fait de s&amp;#39;informer, à intervalles réguliers, sur un ou plusieurs sujet.
 Cela passe donc par la recherche, la sélection et la consommation d&amp;#39;informations qui peut varier d&amp;#39;un rythme hebdomadaire jusqu&amp;#39;à pour certains plusieurs fois dans une même journée !&lt;/p&gt;
@@ -225,7 +225,7 @@ la veille doit privilégier les sources les plus récentes possibles.&lt;/p&gt;
 
 &lt;p&gt;Le reste de cet article sera axé sur la veille technologique qui devient de plus en plus nécessaire à toutes personnes travaillant de prés ou de loin dans le domaine de l&amp;#39;IT.&lt;/p&gt;
 
-&lt;h3&gt;Pourquoi faire de la veille ?&lt;/h3&gt;
+&lt;h1&gt;Pourquoi faire de la veille ?&lt;/h1&gt;
 
 &lt;p&gt;Bien que l&amp;#39;idée soit évidente pour la veille &amp;quot;sociale&amp;quot;, encore beaucoup de personnes ne font que peu de veille technologique voir pas du tout.&lt;/p&gt;
 
@@ -255,12 +255,12 @@ On ne les compte plus...&lt;/p&gt;
 
 &lt;p&gt;Exemple 2 : Je suis développeur et je code sous OSX, mon copain dans l&amp;#39;open-space utilise Fedora et le serveur est sous Debian. Trois systèmes ayant leurs différences. Je lance l&amp;#39;application qui marche sur mon ordinateur, ça marche sur celui de mon copain, mais pas sur le serveur. CRAP. Heureusement, en faisant de la veille je me rappelle que http://vagrantup.com/ existe et que ça nous simplifierait grandement la vie !&lt;/p&gt;
 
-&lt;h3&gt;Comment faire sa veille ?&lt;/h3&gt;
+&lt;h1&gt;Comment faire sa veille ?&lt;/h1&gt;
 
 &lt;p&gt;Comme je l&amp;#39;ai précédemment dit, je ne présente pas la méthode ultime pour faire de la veille, mais je présente comment je fonctionne.
 Vous pouvez vous en inspirer, prendre exactement la même et l&amp;#39;adapter au fil du temps etc... mais je pense que c&amp;#39;est un bon départ.&lt;/p&gt;
 
-&lt;h4&gt;Etablir une liste de sujets cibles&lt;/h4&gt;
+&lt;h2&gt;Etablir une liste de sujets cibles&lt;/h2&gt;
 
 &lt;p&gt;En fonction de votre travail, de votre secteur, vous pourrez choisir des sources ciblées,
 mais il ne faudra pas oublier que le but est de rester le plus ouvert possible !&lt;/p&gt;
@@ -268,7 +268,7 @@ mais il ne faudra pas oublier que le but est de rester le plus ouvert possible !
 &lt;p&gt;Je vous conseille donc de ne pas choisir beaucoup de sujets ciblés mais plutôt d&amp;#39;en choisir 2/3 maximum,
 ça vous obligera à rester ouvert.&lt;/p&gt;
 
-&lt;h4&gt;Sélectionner ses sites favoris&lt;/h4&gt;
+&lt;h2&gt;Sélectionner ses sites favoris&lt;/h2&gt;
 
 &lt;p&gt;Selon vos sujets, vous pouvez sélectionner une liste de blogs, de site d&amp;#39;actualités, les avoir en favoris et les consulter à intervalles réguliers.
 Je vous conseille donc d&amp;#39;avoir pour principale source un site de news qui rassemble des articles de tous horizons.&lt;/p&gt;
@@ -285,7 +285,7 @@ Je vous conseille donc d&amp;#39;avoir pour principale source un site de news qu
 &lt;li&gt;Technology subreddit - http://www.reddit.com/r/technology&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;Filtrer les informations&lt;/h4&gt;
+&lt;h2&gt;Filtrer les informations&lt;/h2&gt;
 
 &lt;p&gt;Vous vous en doutez, toutes ces sources engendrent &lt;strong&gt;beaucoup&lt;/strong&gt; d&amp;#39;informations qui ont toutes leur degrés de pertinence.
 Afin de ne pas passer la journée à faire de la veille, il va falloir filtrer ces informations et décider lesquelles lire, lesquelles marquer pour lire plus tard etc...&lt;/p&gt;
@@ -299,7 +299,7 @@ me fera perdre du temps car je ne retiendrai que peu d&amp;#39;informations.&lt;
 &lt;strong&gt;lisez le&lt;/strong&gt; sinon passez votre chemin. Le but de la veille reste de retenir des informations,
 pas de gâcher votre temps à essayer de la faire.&lt;/p&gt;
 
-&lt;h4&gt;Consommer et sauvegarder&lt;/h4&gt;
+&lt;h2&gt;Consommer et sauvegarder&lt;/h2&gt;
 
 &lt;p&gt;Lorsque vous lisez un article, c&amp;#39;est comme beaucoup de chose... il ne faut pas le faire à moitié.
 Si vous avez sélectionné une news qui vous intéresse, il va falloir valoriser le temps de recherche
@@ -309,7 +309,7 @@ et de sélection en récoltant le plus d&amp;#39;informations possibles.&lt;/p&g
 
 &lt;p&gt;Pour ma part, certaines fois il m&amp;#39;arrive de ne pas avoir le temps de tout lire en une journée... Je laisse donc des onglets ouvert avec les articles à lire. Si jamais je dois éteindre l&amp;#39;ordinateur, il y a plein de plugins disponibles qui permettent de sauvegarder un groupe d&amp;#39;onglets. Des applications comme Pocket existent et permettent de sauvegarder des liens sur un compte et de pouvoir les consulter sur une autre plateforme pour plus tard. Idéal pour lire ses articles sur son téléphone dans le métro ou sur la tablette à la maison.&lt;/p&gt;
 
-&lt;h4&gt;Le temps&lt;/h4&gt;
+&lt;h2&gt;Le temps&lt;/h2&gt;
 
 &lt;p&gt;Une bonne veille est régulière, tout le monde s&amp;#39;accorde à le dire.&lt;/p&gt;
 
@@ -317,7 +317,7 @@ et de sélection en récoltant le plus d&amp;#39;informations possibles.&lt;/p&g
 
 &lt;p&gt;Pour ma part je fais mes recherches le matin en arrivant, le midi après la pause déjeuner, et le soir en rentrant. Pour ce qui est de la lecture, j&amp;#39;aime bien lire un article après être allé chercher mon café, ou après une pause/réunion. Quand il m&amp;#39;en reste certains et que je trouve le temps, je les lis aussi le soir en rentrant.&lt;/p&gt;
 
-&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;h1&gt;Conclusion&lt;/h1&gt;
 
 &lt;p&gt;Faites de la veille, de la façon que vous voulez, sur les sujets que vous voulez. Que ce soit le matin, le soir, toutes les deux heures ou tous les 2 jours, faites-en.&lt;/p&gt;
 
