@@ -35,5 +35,5 @@ Pour ce qui est des projets visant à [révolutionner le mail](http://www.mailpi
 
 Si vous avez des questions par rapport à l'utilisation quotidienne, n'hésitez pas : @jstoja !
 
-![Capture d'écran de fastmail](/img/fastmail.jpg)
+![Capture d'écran de fastmail]({{ site.baseurl }}/img/fastmail.jpg)
 

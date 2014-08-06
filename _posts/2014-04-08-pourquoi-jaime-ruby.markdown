@@ -28,15 +28,10 @@ Séduit par ce langage, je l'utilise au quotidien pour mes projets et mes étude
 Ruby m'apporte des packages pour faire à peu près tout ce que les autres langages me proposent.
 
 + Besoin de commencer un projet web ? [Ruby on Rails](http://rubyonrails.org/) est probablement le framework qui comble le plus ses utilisateurs.
-
 + Besoin d'un projet utilisant un système d'acteurs comme Erlang ? La merveilleuse gem [Celluloid](https://github.com/celluloid/celluloid) de [Tony Arcieri](http://tonyarcieri.com/) me le permet avec une simplicité déconcertante.
-
 + Besoin d'un gestionnaire de paquets sous OSX ? [Homebrew](http://brew.sh/), fait en Ruby, est probablement le gestionnaire le plus complet et le plus extensible.
-
 + Besoin d'un pré-processeur CSS afin d'améliorer votre productivité ? [Sass](http://sass-lang.com/), fait en Ruby, est parmi les projets les plus avancés !
-
 + Besoin de bloguer ? [Jekyll](http://jekyllrb.com/), fait en Ruby, est le générateur de blog statique le plus utilisé. Il permet notamment de déployer facilement sur [GithubPages](http://pages.github.com/) !
-
 + ...
 
 Et tout cela à la portée d'une seule ligne de commande ! ;-)

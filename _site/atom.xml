@@ -4,7 +4,7 @@
   <title>blog.julienbordellier.com</title>
   <link href="http://blog.julienbordellier.com/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.julienbordellier.com/atom.xml"/>
-  <updated>2014-08-06T11:27:33+02:00</updated>
+  <updated>2014-08-06T12:02:46+02:00</updated>
   <id>http://blog.julienbordellier.com/</id>
   <author>
     <name>Julien Bordellier</name>
@@ -102,12 +102,12 @@ C&amp;#39;est pour cela qu&amp;#39;il a très rapidement été adopté par beauc
 &lt;p&gt;Ruby m&amp;#39;apporte des packages pour faire à peu près tout ce que les autres langages me proposent.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Besoin de commencer un projet web ? &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; est probablement le framework qui comble le plus ses utilisateurs.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Besoin d&amp;#39;un projet utilisant un système d&amp;#39;acteurs comme Erlang ? La merveilleuse gem &lt;a href=&quot;https://github.com/celluloid/celluloid&quot;&gt;Celluloid&lt;/a&gt; de &lt;a href=&quot;http://tonyarcieri.com/&quot;&gt;Tony Arcieri&lt;/a&gt; me le permet avec une simplicité déconcertante.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Besoin d&amp;#39;un gestionnaire de paquets sous OSX ? &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebrew&lt;/a&gt;, fait en Ruby, est probablement le gestionnaire le plus complet et le plus extensible.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Besoin d&amp;#39;un pré-processeur CSS afin d&amp;#39;améliorer votre productivité ? &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass&lt;/a&gt;, fait en Ruby, est parmi les projets les plus avancés !&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Besoin de bloguer ? &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, fait en Ruby, est le générateur de blog statique le plus utilisé. Il permet notamment de déployer facilement sur &lt;a href=&quot;http://pages.github.com/&quot;&gt;GithubPages&lt;/a&gt; !&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;...&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Besoin de commencer un projet web ? &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt; est probablement le framework qui comble le plus ses utilisateurs.&lt;/li&gt;
+&lt;li&gt;Besoin d&amp;#39;un projet utilisant un système d&amp;#39;acteurs comme Erlang ? La merveilleuse gem &lt;a href=&quot;https://github.com/celluloid/celluloid&quot;&gt;Celluloid&lt;/a&gt; de &lt;a href=&quot;http://tonyarcieri.com/&quot;&gt;Tony Arcieri&lt;/a&gt; me le permet avec une simplicité déconcertante.&lt;/li&gt;
+&lt;li&gt;Besoin d&amp;#39;un gestionnaire de paquets sous OSX ? &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebrew&lt;/a&gt;, fait en Ruby, est probablement le gestionnaire le plus complet et le plus extensible.&lt;/li&gt;
+&lt;li&gt;Besoin d&amp;#39;un pré-processeur CSS afin d&amp;#39;améliorer votre productivité ? &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass&lt;/a&gt;, fait en Ruby, est parmi les projets les plus avancés !&lt;/li&gt;
+&lt;li&gt;Besoin de bloguer ? &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, fait en Ruby, est le générateur de blog statique le plus utilisé. Il permet notamment de déployer facilement sur &lt;a href=&quot;http://pages.github.com/&quot;&gt;GithubPages&lt;/a&gt; !&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Et tout cela à la portée d&amp;#39;une seule ligne de commande ! ;-)&lt;/p&gt;
@@ -189,7 +189,7 @@ Ces trois principales raisons sont celles de ma migration entre &lt;a href=&quot
 
 &lt;p&gt;Si vous avez des questions par rapport à l&amp;#39;utilisation quotidienne, n&amp;#39;hésitez pas : @jstoja !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/fastmail.jpg&quot; alt=&quot;Capture d&amp;#39;écran de fastmail&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/img/fastmail.jpg&quot; alt=&quot;Capture d&amp;#39;écran de fastmail&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
   

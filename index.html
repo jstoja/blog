@@ -9,7 +9,7 @@ title: Julien Bordellier
 <main class="content">
   {% for post in paginator.posts %}
     <article>
-      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+	  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <h2><time>{{ post.date | date: "%d %B %Y" }}</time></h2>
       <p>{{ post.content | truncatehtml | truncatewords: 30 }}</p>
     </article>
