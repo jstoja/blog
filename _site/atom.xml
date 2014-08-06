@@ -4,7 +4,7 @@
   <title>blog.julienbordellier.com</title>
   <link href="http://blog.julienbordellier.com/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.julienbordellier.com/atom.xml"/>
-  <updated>2014-04-17T00:12:12+08:00</updated>
+  <updated>2014-08-06T11:27:33+02:00</updated>
   <id>http://blog.julienbordellier.com/</id>
   <author>
     <name>Julien Bordellier</name>
@@ -16,7 +16,7 @@
     <id>http://blog.julienbordellier.com//veille/2014/04/10/re-mangez-du-rss</id>
     <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/veille/2014/04/10/re-mangez-du-rss.html"/>
     <title>(Re-)Mangez du RSS !</title>
-    <updated>2014-04-10T20:00:00+08:00</updated>
+    <updated>2014-04-10T20:00:00+02:00</updated>
     <author>
       <name>Julien Bordellier</name>
       <uri>http://blog.julienbordellier.com/</uri>
@@ -75,7 +75,7 @@ Cela veut dire que pendant tous les autres jours du mois, vous perdez votre temp
     <id>http://blog.julienbordellier.com//dev/2014/04/08/pourquoi-jaime-ruby</id>
     <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/dev/2014/04/08/pourquoi-jaime-ruby.html"/>
     <title>Pourquoi j&#39;aime Ruby...</title>
-    <updated>2014-04-08T19:00:00+08:00</updated>
+    <updated>2014-04-08T19:00:00+02:00</updated>
     <author>
       <name>Julien Bordellier</name>
       <uri>http://blog.julienbordellier.com/</uri>
@@ -111,7 +111,7 @@ C&amp;#39;est pour cela qu&amp;#39;il a très rapidement été adopté par beauc
 &lt;/ul&gt;
 
 &lt;p&gt;Et tout cela à la portée d&amp;#39;une seule ligne de commande ! ;-)&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;sh language-sh&quot; data-lang=&quot;sh&quot;&gt;gem install xxxx
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;gem install xxxx
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h1&gt;Conclusion&lt;/h1&gt;
 
@@ -127,7 +127,7 @@ C&amp;#39;est pour cela qu&amp;#39;il a très rapidement été adopté par beauc
     <id>http://blog.julienbordellier.com//divers/2014/01/02/lire-lactualite-vous-rend-malheureux</id>
     <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/divers/2014/01/02/lire-lactualite-vous-rend-malheureux.html"/>
     <title>Lire l&#39;actualité vous rend malheureux</title>
-    <updated>2014-01-02T15:16:00+08:00</updated>
+    <updated>2014-01-02T15:16:00+01:00</updated>
     <author>
       <name>Julien Bordellier</name>
       <uri>http://blog.julienbordellier.com/</uri>
@@ -157,7 +157,7 @@ Tous les jours, on peut voir sur les principaux journaux des titres interpellant
     <id>http://blog.julienbordellier.com//mail/2013/08/02/de-gmail-a-fastmail</id>
     <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/mail/2013/08/02/de-gmail-a-fastmail.html"/>
     <title>De Gmail a FastMail</title>
-    <updated>2013-08-02T05:43:00+08:00</updated>
+    <updated>2013-08-02T05:43:00+02:00</updated>
     <author>
       <name>Julien Bordellier</name>
       <uri>http://blog.julienbordellier.com/</uri>
@@ -197,7 +197,7 @@ Ces trois principales raisons sont celles de ma migration entre &lt;a href=&quot
     <id>http://blog.julienbordellier.com//veille/2013/07/02/comment-faire-sa-veille</id>
     <link type="text/html" rel="alternate" href="http://blog.julienbordellier.com/veille/2013/07/02/comment-faire-sa-veille.html"/>
     <title>Comment faire sa veille ?</title>
-    <updated>2013-07-02T19:21:00+08:00</updated>
+    <updated>2013-07-02T19:21:00+02:00</updated>
     <author>
       <name>Julien Bordellier</name>
       <uri>http://blog.julienbordellier.com/</uri>
