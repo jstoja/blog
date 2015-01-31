@@ -4,7 +4,7 @@
   <title>blog.julienbordellier.com</title>
   <link href="http://blog.julienbordellier.com/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.julienbordellier.com/atom.xml"/>
-  <updated>2014-08-06T12:49:24+02:00</updated>
+  <updated>2015-02-01T00:25:49+01:00</updated>
   <id>http://blog.julienbordellier.com/</id>
   <author>
     <name>Julien Bordellier</name>
@@ -82,7 +82,7 @@ Cela veut dire que pendant tous les autres jours du mois, vous perdez votre temp
     </author>
     <content type="html">&lt;p&gt;Il y a bientôt 3ans, j&amp;#39;ai découvert &lt;a href=&quot;http://ruby-lang.org/fr/&quot;&gt;Ruby&lt;/a&gt; tout à fait par hasard. Très vite, j&amp;#39;ai rencontré plusieurs personnes comme &lt;a href=&quot;http://camilleroux.com/&quot;&gt;Camille Roux&lt;/a&gt; co-fondateur de HumanCoders ou &lt;a href=&quot;http://anthonyestebe.com/&quot;&gt;Anthony Estebe&lt;/a&gt; freelance à travers le monde. Ces deux développeurs de la ville où j&amp;#39;étudiais m&amp;#39;ont fait découvrir non pas le langage, mais toute la communauté et l&amp;#39;esprit qui l&amp;#39;accompagnait.&lt;/p&gt;
 
-&lt;p&gt;Grâce à cette superbe communauté j&amp;#39;ai pu discuter lors d&amp;#39;Apéros Ruby, avec &lt;a href=&quot;http://anthonyeden.com/&quot;&gt;Anthony Eden&lt;/a&gt; créateur de DNSsimple, mais aussi &lt;a href=&quot;http://matt.aimonetti.net/&quot;&gt;Matt Aimonetti&lt;/a&gt; maintenant co-fondateur Splice. J&amp;#39;ai pu rencontrer plusieurs développeurs de Github et Heroku ou encore des personnes travaillant sur le langage en lui même.&lt;/p&gt;
+&lt;p&gt;Grâce à cette superbe communauté j&amp;#39;ai pu discuter lors d&amp;#39;Apéros Ruby, avec &lt;a href=&quot;http://anthonyeden.com/&quot;&gt;Anthony Eden&lt;/a&gt; créateur de DNSimple, mais aussi &lt;a href=&quot;http://matt.aimonetti.net/&quot;&gt;Matt Aimonetti&lt;/a&gt; maintenant co-fondateur Splice. J&amp;#39;ai pu rencontrer plusieurs développeurs de Github et Heroku ou encore des personnes travaillant sur le langage en lui même.&lt;/p&gt;
 
 &lt;h1&gt;Le langage&lt;/h1&gt;
 
@@ -189,7 +189,7 @@ Ces trois principales raisons sont celles de ma migration entre &lt;a href=&quot
 
 &lt;p&gt;Si vous avez des questions par rapport à l&amp;#39;utilisation quotidienne, n&amp;#39;hésitez pas : @jstoja !&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/img/fastmail.jpg&quot; alt=&quot;Capture d&amp;#39;écran de fastmail&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/fastmail.jpg&quot; alt=&quot;Capture d&amp;#39;écran de fastmail&quot;&gt;&lt;/p&gt;
 </content>
   </entry>
   

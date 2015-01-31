@@ -10,14 +10,16 @@
 
 @import "base";
 
-@include font-face("Lobster Two Regular", font-files("/blog/font/lobstertwo-regular-webfont.woff", "font/lobstertwo-regular-webfont.ttf", "font/lobstertwo-regular-webfont.svg"));
-@include font-face("Chunkfive Regular", font-files("/blog/font/chunkfive-webfont.woff", "font/chunkfive-webfont.ttf", "font/chunkfive-webfont.svg"));
-@include font-face("QuickSand", font-files("/blog/font/quicksand-regular-webfont.woff", "font/quicksand-regular-webfont.ttf", "font/quicksand-regular-webfont.svg"));
-@include font-face("QuickSandBold", font-files("/blog/font/quicksand-bold-webfont.woff", "font/quicksand-bold-webfont.ttf", "font/quicksand-bold-webfont.svg"));
-@include font-face("Aller Regular", font-files("/blog/font/aller_rg-webfont.woff", "/font/aller_rg-webfont.ttf", "/font/aller_rg-webfont.svg"));
+@include font-face("Lobster Two Regular", font-files("/font/lobstertwo-regular-webfont.woff", "font/lobstertwo-regular-webfont.ttf", "font/lobstertwo-regular-webfont.svg"));
+@include font-face("QuickSand", font-files("/font/quicksand-regular-webfont.woff", "font/quicksand-regular-webfont.ttf", "font/quicksand-regular-webfont.svg"));
+@include font-face("Aller Regular", font-files("/font/aller_rg-webfont.woff", "/font/aller_rg-webfont.ttf", "/font/aller_rg-webfont.svg"));
  
 .container {
   background-color: $bgColor;
+}
+
+a {
+  color: $mainColor;
 }
 
 .head {
@@ -31,6 +33,9 @@
   h2 {
     font-size: 1.5em;
     margin-top: 0.5em;
+  }
+  a {
+    text-decoration: none;
   }
 }
 
@@ -75,9 +80,9 @@
   }
 
   p {
-    font-family: "Quicksand";
+    font-family: "Helvetica";
     margin-top: 0.8em;
-    text-align: justify;
+    // text-align: justify;
   }
   img {
     max-width: 90%;
@@ -150,20 +155,19 @@ footer {
 }
 
 .blogpost {
-  margin: 0.2em 0.8em 0 0.8em;
-  font-family: "Quicksand";
-  margin-top: 0.8em;
-  text-align: justify;
+  margin: 2.2em 0.8em 0 0.8em;
 
   blockquote {
-    font-family: "Quicksand Italic";
-    padding: 0.2em 0.8em 0.8em 0.8em;
+    // font-family: "Quicksand Italic";
+    padding: 0.6em;
     border: 1px solid black;
+    margin: 1em 0;
   }
 
   p {
-    font-family: "Quicksand";
-    margin-top: 0.8em;
+    font-family: "Helvetica";
+    // margin-top: 0.8em;
+    line-height: 125%;
     text-align: justify;
   }
   img {
@@ -176,11 +180,10 @@ footer {
     margin: 1em 0 0.8em 0.8em;
     font-family: "Lobster Two Regular";
     color: $mainColor;
-    font-size: 1.8em;    
+    font-size: 1.8em;
   }
 
   a {
-    color: $mainColor;
     &:visited {
       color: shade($mainColor, 30);
     }      
@@ -189,16 +192,8 @@ footer {
     }      
   }
 
-  li {
-	margin-bottom: 0.6em;
-  }
-
   ul {
-    list-style: disc inside none;
-    margin-left: 1.0em;
-  }
-  ol {
-    list-style: decimal inside none;
+    list-style: disc outside none;
     margin-left: 1.0em;
   }
 
@@ -207,7 +202,7 @@ footer {
   }
 
   strong {
-    font-family: "QuickSandBold";
+    font-weight: 600;
   }
 }
 
@@ -217,7 +212,7 @@ footer {
   span {
     font-family: "Lobster Two Regular";
     color: $mainColor;
-    font-size: 1.6em;    
+    font-size: 1.6em;
   }
   .left {
     margin-right: 50%;
@@ -245,11 +240,11 @@ footer {
   }
 }
 
-@media (min-width: 600px) {
-  footer {
-    @include border-top-radius(10px);
-  }
-}
+// @media (min-width: 600px) {
+  // footer {
+    // @include border-top-radius(10px);
+  // }
+// }
 
 @media (min-width: 600px) and (max-width: 800px) {
   body {

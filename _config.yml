@@ -6,5 +6,4 @@ exclude: ['watch.sh', 'sass', 'style.scss'] # files to exclude
 paginate: 10
 premalink: pretty
 markdown: redcarpet
-highlight: true
-baseurl: /blog
+highlighter: true

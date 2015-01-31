@@ -8,7 +8,7 @@ categories: dev
 
 Il y a bientôt 3ans, j'ai découvert [Ruby](http://ruby-lang.org/fr/) tout à fait par hasard. Très vite, j'ai rencontré plusieurs personnes comme [Camille Roux](http://camilleroux.com/) co-fondateur de HumanCoders ou [Anthony Estebe](http://anthonyestebe.com/) freelance à travers le monde. Ces deux développeurs de la ville où j'étudiais m'ont fait découvrir non pas le langage, mais toute la communauté et l'esprit qui l'accompagnait.
 
-Grâce à cette superbe communauté j'ai pu discuter lors d'Apéros Ruby, avec [Anthony Eden](http://anthonyeden.com/) créateur de DNSsimple, mais aussi [Matt Aimonetti](http://matt.aimonetti.net/) maintenant co-fondateur Splice. J'ai pu rencontrer plusieurs développeurs de Github et Heroku ou encore des personnes travaillant sur le langage en lui même.
+Grâce à cette superbe communauté j'ai pu discuter lors d'Apéros Ruby, avec [Anthony Eden](http://anthonyeden.com/) créateur de DNSimple, mais aussi [Matt Aimonetti](http://matt.aimonetti.net/) maintenant co-fondateur Splice. J'ai pu rencontrer plusieurs développeurs de Github et Heroku ou encore des personnes travaillant sur le langage en lui même.
 
 #Le langage
 
