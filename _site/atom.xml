@@ -4,7 +4,7 @@
   <title>blog.julienbordellier.com</title>
   <link href="http://blog.julienbordellier.com/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.julienbordellier.com/atom.xml"/>
-  <updated>2015-02-01T00:29:37+01:00</updated>
+  <updated>2015-02-01T00:33:23+01:00</updated>
   <id>http://blog.julienbordellier.com/</id>
   <author>
     <name>Julien Bordellier</name>
@@ -132,7 +132,7 @@ C&amp;#39;est pour cela qu&amp;#39;il a très rapidement été adopté par beauc
       <name>Julien Bordellier</name>
       <uri>http://blog.julienbordellier.com/</uri>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/news.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/blog/img/news.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Depuis quelques mois je me rends compte que lire ou regarder les informations de façon journalière me déplait. De façon interessante je ne trouve que peu de personnes qui ressentent la même chose et pourtant nous somme une grande partie à être d&amp;#39;accord sur le fléau que cette action engendre.&lt;/p&gt;
 

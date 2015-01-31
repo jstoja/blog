@@ -5,7 +5,7 @@ date: 2014-01-02 15:16
 comments: true
 categories: divers
 ---
-![]({{ site.url }}/img/news.jpg)
+![]({{ site.baseurl }}/img/news.jpg)
 
 Depuis quelques mois je me rends compte que lire ou regarder les informations de façon journalière me déplait. De façon interessante je ne trouve que peu de personnes qui ressentent la même chose et pourtant nous somme une grande partie à être d'accord sur le fléau que cette action engendre.
 
