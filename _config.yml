@@ -6,4 +6,4 @@ exclude: ['watch.sh', 'sass', 'style.scss'] # files to exclude
 paginate: 10
 premalink: pretty
 markdown: redcarpet
-pygments: true
+highlighter: true
