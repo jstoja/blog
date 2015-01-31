@@ -7,3 +7,4 @@ paginate: 10
 premalink: pretty
 markdown: redcarpet
 highlighter: true
+baseurl: /blog
