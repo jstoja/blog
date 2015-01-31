@@ -10,9 +10,9 @@
 
 @import "base";
 
-@include font-face("Lobster Two Regular", font-files("/font/lobstertwo-regular-webfont.woff", "font/lobstertwo-regular-webfont.ttf", "font/lobstertwo-regular-webfont.svg"));
-@include font-face("QuickSand", font-files("/font/quicksand-regular-webfont.woff", "font/quicksand-regular-webfont.ttf", "font/quicksand-regular-webfont.svg"));
-@include font-face("Aller Regular", font-files("/font/aller_rg-webfont.woff", "/font/aller_rg-webfont.ttf", "/font/aller_rg-webfont.svg"));
+@include font-face("Lobster Two Regular", font-files("/blog/font/lobstertwo-regular-webfont.woff", "/blog/font/lobstertwo-regular-webfont.ttf", "/blog/font/lobstertwo-regular-webfont.svg"));
+@include font-face("QuickSand", font-files("/blog/font/quicksand-regular-webfont.woff", "/blog/font/quicksand-regular-webfont.ttf", "/blog/font/quicksand-regular-webfont.svg"));
+@include font-face("Aller Regular", font-files("/blog/font/aller_rg-webfont.woff", "/blog/font/aller_rg-webfont.ttf", "/blog/font/aller_rg-webfont.svg"));
  
 .container {
   background-color: $bgColor;
